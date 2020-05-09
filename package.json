@@ -1,0 +1,20 @@
+{
+  "name": "electrondemo",
+  "version": "1.0.0",
+  "description": "CPU Activity Monitor",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron Main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.2.5"
+  },
+  "dependencies": {
+    "electron-localshortcut": "^3.2.1",
+    "mousetrap": "^1.6.5"
+  }
+}
